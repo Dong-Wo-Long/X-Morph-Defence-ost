@@ -1,14 +1,11 @@
-repo: "Dong-Wo-Long/DOOM2016-ost"
-
-name: "doom2016"
-displayName: "DOOM 2016 ost"
-author: "D&X"
+repo: "Dong-Wo-Long/X-Morph-Defence-ost"
 description: "Changes music files to tracks from the DOOM 2016 game (not a bad game, I advise you to take a closer look at it)"
-version: v1.0.0
-subtitle: "DOOM 2016 Music pack | v1.0.0"
+subtitle: "X-Morph: Defence music pack | v1.0.0"
+displayName: "X-Morph: Defence"
+author: "D&X"
+name: "xmd"
 
 minGameVersion: 146
-
 hideBrowser: false
-
+version: v1.0.0
 hidden: true
