@@ -1,37 +1,37 @@
 # ПОЗЖЕ СДЕЛАЮ
 
 # X-Morph: Defence
-## Boss tracks:
-- boss1 - "Someone Whoí»s Got Chops"
+## Boss theme:
+- boss1 - "Chop This"
 
-- boss2 - "The Firebird"
+- boss2 - "Chaos Theory"
 
-## Gameplay tracks:
-- fine - "The Two in a tangled"
+## Gameplay theme:
+- fine - "Ancient Dust"
 
-- game1 - "Swimming In A Sea Of Neon Lights Part 1"
+- game1 - "Diving Into Madness"
 
-- game2 - "Swimming In A Sea Of Neon Lights Part 2"
+- game2 - "Destruction Begins"
 
-- game3 - "Through the Clouds Part 1"
+- game3 - "Disassembly of Tokio"
 
-- game4 - "Through the Clouds Part 2"
+- game4 - "Extinction"
 
-- game5 - "A Little More Hostile Subway"
+- game5 - "Forget It"
 
-- game6 - "JUSTICE Is Watching You"
+- game6 - "Look Out"
 
-- game7 - "In The Hall of Factory King"
+- game7 - "No Time To Argue"
 
-- game8 - "A Vindication Opportunity"
+- game8 - "Dark Hour"
 
-- game9 - "Meet Your Demise With Integrity, Please"
+- game9 - "Deadly Old Machine"
 
-## Pre-game tracks:
-- menu - "The Dream In Reality"
+## Pre-game theme:
+- menu - "The First One"
 
-- editor - "The Dream In Reality (Ambient Ver.)"
+- editor - "Nest in the Dome"
 
-- launch - "A Worn Duty"
+- launch - "Rais From The Ashes"
 
 - land - "The Rise"
