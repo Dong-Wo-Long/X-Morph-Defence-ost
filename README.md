@@ -1,6 +1,5 @@
-# ПОЗЖЕ СДЕЛАЮ
-
 # X-Morph: Defence
+![X-Morph-Defence-ost](https://github.com/Dong-Wo-Long/X-Morph-Defence-ost/blob/main/icon.png)
 ## Boss theme:
 - boss1 - "Chop This"
 
