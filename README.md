@@ -34,4 +34,4 @@
 
 - launch - "Rais From The Ashes"
 
-- land - "The Rise"
+- land - "The Island od Oahu Pearl Harbour"
