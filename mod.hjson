@@ -1,11 +1,11 @@
 repo: "Dong-Wo-Long/X-Morph-Defence-ost"
 description: "Change the music files to tracks from the game X-Morph: Defence (a TD game, like mindustry, but without PvP and with its own features)"
-subtitle: "X-Morph: Defence music pack | v1.0.1"
+subtitle: "X-Morph: Defence music pack | v1.0.2"
 displayName: "X-Morph: Defence"
 author: "D&X"
 name: "xmd"
 
 minGameVersion: 146
 hideBrowser: false
-version: v1.0.1
+version: v1.0.2
 hidden: true
